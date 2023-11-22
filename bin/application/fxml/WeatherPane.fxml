@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="769.0" prefWidth="1075.0" styleClass="body" stylesheets="@../Css/Weather.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.WeatherController">
+	<children>
+		<GridPane alignment="CENTER" layoutY="1.0" prefHeight="715.0" prefWidth="959.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="-5.0" AnchorPane.topAnchor="1.0">
+			<columnConstraints>
+				<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+				<ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+			</columnConstraints>
+			<rowConstraints>
+				<RowConstraints maxHeight="711.0" minHeight="0.0" prefHeight="588.0" vgrow="SOMETIMES" />
+				<RowConstraints vgrow="ALWAYS" />
+			</rowConstraints>
+			<children>
+				<VBox id="voxx" alignment="CENTER" layoutX="50.0" prefHeight="711.0" prefWidth="517.0" spacing="25.0" GridPane.columnIndex="1" GridPane.rowSpan="2" GridPane.vgrow="ALWAYS">
+					<children>
+						<ImageView fx:id="weatherImage" fitHeight="200.0" fitWidth="223.0" pickOnBounds="true">
+							<image>
+								<Image url="@../images/Rain.gif" />
+							</image>
+						</ImageView>
+						<Label fx:id="weatherLocation" alignment="CENTER" contentDisplay="CENTER" prefHeight="49.0" prefWidth="481.0" text="Enter a Location" />
+						<TextField fx:id="weatherSearchBar" alignment="CENTER" maxWidth="279.0" prefHeight="38.0" prefWidth="386.0" />
+						<Button fx:id="weatherSearchBtn" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="33.0" prefWidth="88.0" text="Search" />
+					</children>
+					<padding>
+						<Insets bottom="10.0" top="10.0" />
+					</padding>
+				</VBox>
+			</children>
+		</GridPane>
+	</children>
+</AnchorPane>

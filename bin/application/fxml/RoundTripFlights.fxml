@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane id="RTroot" minHeight="-Infinity" minWidth="-Infinity" prefHeight="871.0" prefWidth="1167.0" styleClass="body" stylesheets="@../Css/RoundTripFlights.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.RoundTripFlightsController">
+   <VBox alignment="CENTER" layoutY="-38.0" prefHeight="871.0" prefWidth="1167.0" spacing="45.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <children>
+         <Label id="resultLbl" fx:id="resultLbl" alignment="CENTER" contentDisplay="CENTER" prefHeight="92.0" prefWidth="230.0" text="Flight Result 10000">
+            <VBox.margin>
+               <Insets bottom="15.0" top="45.0" />
+            </VBox.margin>
+         </Label>
+         <HBox fx:id="yourHBox1" alignment="CENTER" prefHeight="220.0" prefWidth="1042.0" spacing="15.0" style="-fx-background-color: #ededed;">
+            <children>
+               <ImageView id="flightLg" fx:id="flightLgIVOut" fitHeight="173.0" fitWidth="170.0" preserveRatio="true" />
+               <VBox alignment="CENTER_LEFT" prefHeight="160.0" prefWidth="287.0">
+                  <children>
+                     <Label id="dateLb" fx:id="dateLblOut" alignment="CENTER" contentDisplay="CENTER" prefHeight="63.0" prefWidth="236.0" text="28-Mar-2023" />
+                     <Label id="timeLb" fx:id="timeLblOut" alignment="CENTER" prefHeight="46.0" prefWidth="229.0" text="10:40PM - 3:35AM" />
+                     <Label id="airLb" fx:id="airLblOut" alignment="CENTER" prefHeight="48.0" prefWidth="234.0" text="Etihad" />
+                  </children>
+               </VBox>
+               <VBox alignment="CENTER" prefHeight="189.0" prefWidth="100.0">
+                  <children>
+                     <Label id="tdLb" fx:id="tdLblOut" alignment="CENTER" contentDisplay="CENTER" prefHeight="38.0" prefWidth="106.0" text="18 hr 55 min" />
+                     <Label id="iataLb" fx:id="iataLblOut" alignment="CENTER" prefHeight="41.0" prefWidth="97.0" text="JFK - DAC" />
+                     <Label fx:id="tmLblOut" alignment="CENTER" prefHeight="26.0" prefWidth="108.0" text="4000 mi" />
+                  </children>
+               </VBox>
+               <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+                  <children>
+                     <Label id="stopLb" fx:id="stopLblOut" alignment="CENTER" prefHeight="24.0" prefWidth="100.0" text="1 stop" />
+                     <Label id="stopCodeLb" fx:id="stopCodeLblOut" alignment="CENTER" prefHeight="18.0" prefWidth="100.0" text="DXB" />
+                  </children>
+               </VBox>
+            </children>
+         </HBox>
+         <HBox alignment="CENTER">
+            <children>
+               <ImageView fitHeight="139.0" fitWidth="135.0" pickOnBounds="true" preserveRatio="true">
+                  <image>
+                     <Image url="@../images/in_out.png" />
+                  </image>
+               </ImageView>
+               <Label id="priceLb" fx:id="priceLbl" alignment="CENTER" contentDisplay="CENTER" prefHeight="61.0" prefWidth="208.0" text="\$456">
+                  <padding>
+                     <Insets bottom="25.0" />
+                  </padding></Label>
+            </children>
+         </HBox>
+      
+      	<HBox fx:id="yourHBox" alignment="CENTER" prefHeight="220.0" prefWidth="1042.0" spacing="15.0" style="-fx-background-color: #ededed;">
+      		<ImageView id="flightLg" fx:id="flightLgIVIn" fitHeight="173.0" fitWidth="170.0" preserveRatio="true" />
+      		<VBox alignment="CENTER_LEFT" prefHeight="160.0" prefWidth="287.0">
+      			<children>
+      				<Label id="dateLb" fx:id="dateLblIn" alignment="CENTER" contentDisplay="CENTER" prefHeight="63.0" prefWidth="236.0" text="28-Mar-2023" />
+      				<Label id="timeLb" fx:id="timeLblIn" alignment="CENTER" prefHeight="46.0" prefWidth="229.0" text="10:40PM - 3:35AM" />
+      				<Label id="airLb" fx:id="airLblIn" alignment="CENTER" prefHeight="48.0" prefWidth="234.0" text="Etihad" />
+      			</children>
+      		</VBox>
+      		<VBox alignment="CENTER" prefHeight="189.0" prefWidth="100.0">
+      			<children>
+      				<Label id="tdLb" fx:id="tdLblIn" alignment="CENTER" contentDisplay="CENTER" prefHeight="38.0" prefWidth="106.0" text="18 hr 55 min" />
+      				<Label id="iataLb" fx:id="iataLblIn" alignment="CENTER" prefHeight="41.0" prefWidth="97.0" text="JFK - DAC" />
+      				<Label fx:id="tmLblIn" alignment="CENTER" prefHeight="26.0" prefWidth="108.0" text="4000 mi" />
+      			</children>
+      		</VBox>
+      		<VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+      			<children>
+      				<Label id="stopLb" fx:id="stopLblIn" alignment="CENTER" prefHeight="24.0" prefWidth="100.0" text="1 stop" />
+      				<Label id="stopCodeLb" fx:id="stopCodeLblIn" alignment="CENTER" prefHeight="18.0" prefWidth="100.0" text="DXB" />
+      			</children>
+      		</VBox>
+      	</HBox>
+      		<Button id="viewBtn" fx:id="viewBtn" prefHeight="41.0" prefWidth="73.0" text="view">
+            <VBox.margin>
+               <Insets bottom="55.0" />
+            </VBox.margin></Button>
+      </children>
+   </VBox>
+</AnchorPane>

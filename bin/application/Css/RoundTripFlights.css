@@ -1,0 +1,39 @@
+.body{ 
+	  -fx-background-size: 0.0% 0.0%;
+  -fx-background-color: #FFFFFF;
+    -fx-font-family: 'Segoe UI';
+}
+
+.label {
+	-fx-font-size: 15.0px;
+	-fx-text-fill: #ff4500;
+	-fx-translate-y: 10.0px;
+}
+
+#timeLb {
+	-fx-font-size: 25.0px;
+}
+#priceLb {
+	-fx-font-size: 45.0px;
+}
+
+.button {
+	-fx-background-color: #ff6700;
+	-fx-background-radius: 10.0px;
+	-fx-border-width: 0.0px;
+	-fx-font-size: 20.0px;
+	-fx-translate-y: 10.0px;
+}
+.button:hover {
+	 -fx-background-color: #ff9f00;
+}
+
+.button:pressed {
+	 -fx-background-color: #c4aead;
+}
+#resultLbl {
+	-fx-background-radius: 15.0px;
+	-fx-text-fill: #000000;
+	-fx-font-size: 25.0px;
+	-fx-background-color: #ff6700;
+}

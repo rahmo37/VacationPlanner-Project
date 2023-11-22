@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane id="OWroot" minHeight="-Infinity" minWidth="-Infinity" prefHeight="184.0" prefWidth="1042.0" styleClass="body" stylesheets="@../Css/OneWayFlights.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.OneWayFlightController">
+
+	<HBox fx:id="yourHBox" alignment="CENTER" layoutX="115.0" prefHeight="217.0" prefWidth="1069.0" spacing="15.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+		<ImageView id="flightLg" fx:id="flightLgIV" fitHeight="173.0" fitWidth="170.0" preserveRatio="true" />
+		<VBox alignment="CENTER_LEFT" prefHeight="160.0" prefWidth="287.0">
+			<children>
+				<Label id="dateLb" fx:id="dateLbl" alignment="CENTER" contentDisplay="CENTER" prefHeight="63.0" prefWidth="236.0" text="28-Mar-2023" />
+				<Label id="timeLb" fx:id="timeLbl" alignment="CENTER" prefHeight="46.0" prefWidth="229.0" text="10:40PM - 3:35AM" />
+				<Label id="airLb" fx:id="airLbl" alignment="CENTER" prefHeight="48.0" prefWidth="234.0" text="Etihad" />
+			</children>
+		</VBox>
+		<VBox alignment="CENTER" prefHeight="189.0" prefWidth="100.0">
+			<children>
+				<Label id="tdLb" fx:id="tdLbl" alignment="CENTER" contentDisplay="CENTER" prefHeight="38.0" prefWidth="106.0" text="18 hr 55 min" />
+				<Label id="iataLb" fx:id="iataLbl" alignment="CENTER" prefHeight="41.0" prefWidth="97.0" text="JFK - DAC" />
+				<Label fx:id="tmLbl" alignment="CENTER" prefHeight="26.0" prefWidth="108.0" text="4000 mi" />
+			</children>
+		</VBox>
+		<VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+			<children>
+				<Label id="stopLb" fx:id="stopLbl" alignment="CENTER" prefHeight="24.0" prefWidth="100.0" text="1 stop" />
+				<Label id="stopCodeLb" fx:id="stopCodeLbl" alignment="CENTER" prefHeight="18.0" prefWidth="100.0" text="DXB" />
+			</children>
+		</VBox>
+		<Label id="priceLb" fx:id="priceLbl" alignment="CENTER" prefHeight="70.0" prefWidth="146.0" text="\$456" />
+		<Button id="viewBtn" fx:id="viewBtn" prefHeight="41.0" prefWidth="73.0" text="view" />
+	</HBox>
+</AnchorPane>

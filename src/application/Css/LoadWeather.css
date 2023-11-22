@@ -1,0 +1,23 @@
+.body{ 
+ -fx-background-size: 0.0% 0.0%;
+ -fx-font-family: "Segoe UI";
+
+}
+
+.label {
+	-fx-text-fill: #1b1b1b;
+	-fx-font-size: 20.0px; 
+
+}
+
+.other-label {
+	-fx-font-size: 15.0px; 
+}
+
+#tempLbl {
+	-fx-font-size: 85.0px; 
+}
+
+.temp-group {
+	-fx-font-size: 40.0px;
+}

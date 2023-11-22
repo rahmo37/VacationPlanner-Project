@@ -1,0 +1,3004 @@
+Round Trip Flight # 10
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=5
+ departureDateTime=2023-04-08T15:31:00
+ arrivalAirport=Hartsfield-Jackson International Airpor
+ arrivalTerminal=N
+ arrivalDateTime=2023-04-08T18:12:00
+ marketingAirline=American Airlines
+ flightNumber=9206
+ distance=0
+ totalTripTime=PT2H41M
+ flightType=Connect
+ uniqueFlightId=JFKATL20230408AA9206
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hartsfield-Jackson International Airpor
+ depaertureTerminal=I
+ departureDateTime=2023-04-08T19:30:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T16:15:00
+ marketingAirline=American Airlines
+ flightNumber=8135
+ distance=0
+ totalTripTime=PT13H45M
+ flightType=Connect
+ uniqueFlightId=ATLDOH20230408AA8135
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=British Airways
+ flightNumber=6199
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6199
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:50:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T14:10:00
+ marketingAirline=British Airways
+ flightNumber=7007
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA7007
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-09T16:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T19:15:00
+ marketingAirline=British Airways
+ flightNumber=113
+ distance=0
+ totalTripTime=PT8H00M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA113
+
+Round Trip Flight # 11
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T15:46:00
+ arrivalAirport=Ronald Reagan National Airport
+ arrivalTerminal=2
+ arrivalDateTime=2023-04-08T17:29:00
+ marketingAirline=American Airlines
+ flightNumber=4577
+ distance=0
+ totalTripTime=PT1H43M
+ flightType=Connect
+ uniqueFlightId=JFKDCA20230408AA4577
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Dulles International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-08T20:40:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T16:35:00
+ marketingAirline=American Airlines
+ flightNumber=8120
+ distance=0
+ totalTripTime=PT12H55M
+ flightType=Connect
+ uniqueFlightId=IADDOH20230408AA8120
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=British Airways
+ flightNumber=6199
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6199
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:50:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T14:10:00
+ marketingAirline=British Airways
+ flightNumber=7007
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA7007
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-09T17:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T20:05:00
+ marketingAirline=British Airways
+ flightNumber=1510
+ distance=0
+ totalTripTime=PT7H50M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA1510
+
+Round Trip Flight # 12
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T17:00:00
+ arrivalAirport=Adolfo Suarez-Barajas Airport
+ arrivalTerminal=4S
+ arrivalDateTime=2023-04-09T06:25:00
+ marketingAirline=Qatar Airways
+ flightNumber=6902
+ distance=0
+ totalTripTime=PT7H25M
+ flightType=Connect
+ uniqueFlightId=JFKMAD20230408QR6902
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Adolfo Suarez-Barajas Airport
+ depaertureTerminal=4S
+ departureDateTime=2023-04-09T09:25:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:05:00
+ marketingAirline=Qatar Airways
+ flightNumber=148
+ distance=0
+ totalTripTime=PT6H40M
+ flightType=Connect
+ uniqueFlightId=MADDOH20230408QR148
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=Qatar Airways
+ flightNumber=639
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR639
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:50:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T14:10:00
+ marketingAirline=Qatar Airways
+ flightNumber=7
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609QR7
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=2
+ departureDateTime=2023-06-09T17:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T20:05:00
+ marketingAirline=Qatar Airways
+ flightNumber=2235
+ distance=0
+ totalTripTime=PT7H50M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609QR2235
+
+Round Trip Flight # 13
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T17:30:00
+ arrivalAirport=Charles de Gaulle Airport
+ arrivalTerminal=2A
+ arrivalDateTime=2023-04-09T06:55:00
+ marketingAirline=Gulf Air
+ flightNumber=6461
+ distance=0
+ totalTripTime=PT7H25M
+ flightType=Connect
+ uniqueFlightId=JFKCDG20230408GF6461
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Charles de Gaulle Airport
+ depaertureTerminal=2E
+ departureDateTime=2023-04-09T10:40:00
+ arrivalAirport=Bahrain International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T18:40:00
+ marketingAirline=Gulf Air
+ flightNumber=18
+ distance=0
+ totalTripTime=PT7H00M
+ flightType=Connect
+ uniqueFlightId=CDGBAH20230408GF18
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Bahrain International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T20:25:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-10T04:40:00
+ marketingAirline=Gulf Air
+ flightNumber=250
+ distance=0
+ totalTripTime=PT5H15M
+ flightType=Connect
+ uniqueFlightId=BAHDAC20230408GF250
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=British Airways
+ flightNumber=6199
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6199
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:50:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T14:10:00
+ marketingAirline=British Airways
+ flightNumber=7007
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA7007
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-09T18:05:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T21:00:00
+ marketingAirline=British Airways
+ flightNumber=179
+ distance=0
+ totalTripTime=PT7H55M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA179
+
+Round Trip Flight # 14
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=5
+ departureDateTime=2023-04-08T17:59:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=C
+ arrivalDateTime=2023-04-08T19:28:00
+ marketingAirline=American Airlines
+ flightNumber=9239
+ distance=0
+ totalTripTime=PT1H29M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408AA9239
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=American Airlines
+ flightNumber=8134
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408AA8134
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=American Airlines
+ flightNumber=8250
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8250
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:45:00
+ arrivalAirport=Dulles International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T16:30:00
+ marketingAirline=American Airlines
+ flightNumber=8119
+ distance=0
+ totalTripTime=PT14H45M
+ flightType=Connect
+ uniqueFlightId=DOHIAD20230609AA8119
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Ronald Reagan National Airport
+ depaertureTerminal=2
+ departureDateTime=2023-06-09T19:45:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T21:11:00
+ marketingAirline=American Airlines
+ flightNumber=4629
+ distance=0
+ totalTripTime=PT1H26M
+ flightType=Connect
+ uniqueFlightId=DCAJFK20230609AA4629
+
+Round Trip Flight # 15
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=5
+ departureDateTime=2023-04-08T17:59:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=C
+ arrivalDateTime=2023-04-08T19:28:00
+ marketingAirline=Qatar Airways
+ flightNumber=3890
+ distance=0
+ totalTripTime=PT1H29M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408QR3890
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=Qatar Airways
+ flightNumber=744
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408QR744
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=Qatar Airways
+ flightNumber=639
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR639
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:25:00
+ arrivalAirport=Hartsfield-Jackson International Airpor
+ arrivalTerminal=I
+ arrivalDateTime=2023-06-09T16:25:00
+ marketingAirline=Qatar Airways
+ flightNumber=755
+ distance=0
+ totalTripTime=PT15H00M
+ flightType=Connect
+ uniqueFlightId=DOHATL20230609QR755
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hartsfield-Jackson International Airpor
+ depaertureTerminal=N
+ departureDateTime=2023-06-09T19:06:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-06-09T21:29:00
+ marketingAirline=Qatar Airways
+ flightNumber=3811
+ distance=0
+ totalTripTime=PT2H23M
+ flightType=Connect
+ uniqueFlightId=ATLJFK20230609QR3811
+
+Round Trip Flight # 16
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T18:04:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=2
+ arrivalDateTime=2023-04-09T06:20:00
+ marketingAirline=Qatar Airways
+ flightNumber=9202
+ distance=0
+ totalTripTime=PT7H16M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408QR9202
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T08:00:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T16:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=6
+ distance=0
+ totalTripTime=PT6H45M
+ flightType=Connect
+ uniqueFlightId=LHRDOH20230408QR6
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=American Airlines
+ flightNumber=8250
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8250
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T07:50:00
+ arrivalAirport=O'Hare International Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-06-09T14:30:00
+ marketingAirline=American Airlines
+ flightNumber=8125
+ distance=0
+ totalTripTime=PT14H40M
+ flightType=Connect
+ uniqueFlightId=DOHORD20230609AA8125
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=O'Hare International Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-09T18:26:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T21:59:00
+ marketingAirline=American Airlines
+ flightNumber=2518
+ distance=0
+ totalTripTime=PT2H33M
+ flightType=Connect
+ uniqueFlightId=ORDJFK20230609AA2518
+
+Round Trip Flight # 17
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T18:04:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=2
+ arrivalDateTime=2023-04-09T06:20:00
+ marketingAirline=Qatar Airways
+ flightNumber=9202
+ distance=0
+ totalTripTime=PT7H16M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408QR9202
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T09:00:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=10
+ distance=0
+ totalTripTime=PT6H45M
+ flightType=Connect
+ uniqueFlightId=LHRDOH20230408QR10
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=Qatar Airways
+ flightNumber=639
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR639
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T07:50:00
+ arrivalAirport=O'Hare International Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-06-09T14:30:00
+ marketingAirline=Qatar Airways
+ flightNumber=725
+ distance=0
+ totalTripTime=PT14H40M
+ flightType=Connect
+ uniqueFlightId=DOHORD20230609QR725
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=O'Hare International Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-09T18:26:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T21:59:00
+ marketingAirline=Qatar Airways
+ flightNumber=2841
+ distance=0
+ totalTripTime=PT2H33M
+ flightType=Connect
+ uniqueFlightId=ORDJFK20230609QR2841
+
+Round Trip Flight # 18
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T18:04:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-04-09T06:20:00
+ marketingAirline=Gulf Air
+ flightNumber=6654
+ distance=0
+ totalTripTime=PT7H16M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408GF6654
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T10:00:00
+ arrivalAirport=Bahrain International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T18:15:00
+ marketingAirline=Gulf Air
+ flightNumber=2
+ distance=0
+ totalTripTime=PT6H15M
+ flightType=Connect
+ uniqueFlightId=LHRBAH20230408GF2
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Bahrain International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T20:25:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-10T04:40:00
+ marketingAirline=Gulf Air
+ flightNumber=250
+ distance=0
+ totalTripTime=PT5H15M
+ flightType=Connect
+ uniqueFlightId=BAHDAC20230408GF250
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=American Airlines
+ flightNumber=8250
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8250
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:05:00
+ arrivalAirport=Miami International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T16:35:00
+ marketingAirline=American Airlines
+ flightNumber=8136
+ distance=0
+ totalTripTime=PT15H30M
+ flightType=Connect
+ uniqueFlightId=DOHMIA20230609AA8136
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Miami International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T19:55:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T23:22:00
+ marketingAirline=American Airlines
+ flightNumber=1357
+ distance=0
+ totalTripTime=PT3H27M
+ flightType=Connect
+ uniqueFlightId=MIAJFK20230609AA1357
+
+Round Trip Flight # 19
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T18:30:00
+ arrivalAirport=Dallas/Ft. Worth International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-08T21:45:00
+ marketingAirline=American Airlines
+ flightNumber=2979
+ distance=0
+ totalTripTime=PT4H15M
+ flightType=Connect
+ uniqueFlightId=JFKDFW20230408AA2979
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Dallas/Ft. Worth International Airport
+ depaertureTerminal=D
+ departureDateTime=2023-04-08T22:55:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T21:50:00
+ marketingAirline=American Airlines
+ flightNumber=8138
+ distance=0
+ totalTripTime=PT14H55M
+ flightType=Connect
+ uniqueFlightId=DFWDOH20230408AA8138
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-10T00:40:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T09:20:00
+ marketingAirline=American Airlines
+ flightNumber=8124
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8124
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T03:35:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T06:15:00
+ marketingAirline=Qatar Airways
+ flightNumber=639
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR639
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:05:00
+ arrivalAirport=Miami International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T16:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=777
+ distance=0
+ totalTripTime=PT15H30M
+ flightType=Connect
+ uniqueFlightId=DOHMIA20230609QR777
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Miami International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T19:55:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T23:22:00
+ marketingAirline=Qatar Airways
+ flightNumber=2403
+ distance=0
+ totalTripTime=PT3H27M
+ flightType=Connect
+ uniqueFlightId=MIAJFK20230609QR2403
+
+Round Trip Flight # 20
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T18:30:00
+ arrivalAirport=Dallas/Ft. Worth International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-08T21:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=2343
+ distance=0
+ totalTripTime=PT4H15M
+ flightType=Connect
+ uniqueFlightId=JFKDFW20230408QR2343
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Dallas/Ft. Worth International Airport
+ depaertureTerminal=D
+ departureDateTime=2023-04-08T22:55:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T21:50:00
+ marketingAirline=Qatar Airways
+ flightNumber=732
+ distance=0
+ totalTripTime=PT14H55M
+ flightType=Connect
+ uniqueFlightId=DFWDOH20230408QR732
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-10T00:40:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T09:20:00
+ marketingAirline=Qatar Airways
+ flightNumber=640
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR640
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T05:05:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T07:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=643
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR643
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:50:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T14:10:00
+ marketingAirline=Qatar Airways
+ flightNumber=7
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609QR7
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=2
+ departureDateTime=2023-06-09T17:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T20:05:00
+ marketingAirline=Qatar Airways
+ flightNumber=2235
+ distance=0
+ totalTripTime=PT7H50M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609QR2235
+
+Round Trip Flight # 21
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=5
+ departureDateTime=2023-04-08T18:55:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=C
+ arrivalDateTime=2023-04-08T20:23:00
+ marketingAirline=American Airlines
+ flightNumber=9331
+ distance=0
+ totalTripTime=PT1H28M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408AA9331
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=American Airlines
+ flightNumber=8134
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408AA8134
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T05:05:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T07:45:00
+ marketingAirline=American Airlines
+ flightNumber=8234
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8234
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T08:45:00
+ arrivalAirport=Dulles International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T16:30:00
+ marketingAirline=American Airlines
+ flightNumber=8119
+ distance=0
+ totalTripTime=PT14H45M
+ flightType=Connect
+ uniqueFlightId=DOHIAD20230609AA8119
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Ronald Reagan National Airport
+ depaertureTerminal=2
+ departureDateTime=2023-06-09T19:45:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T21:11:00
+ marketingAirline=American Airlines
+ flightNumber=4629
+ distance=0
+ totalTripTime=PT1H26M
+ flightType=Connect
+ uniqueFlightId=DCAJFK20230609AA4629
+
+Round Trip Flight # 22
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=5
+ departureDateTime=2023-04-08T18:55:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=C
+ arrivalDateTime=2023-04-08T20:23:00
+ marketingAirline=Qatar Airways
+ flightNumber=4007
+ distance=0
+ totalTripTime=PT1H28M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408QR4007
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=Qatar Airways
+ flightNumber=744
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408QR744
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T05:40:00
+ arrivalAirport=Bahrain International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T08:15:00
+ marketingAirline=Gulf Air
+ flightNumber=251
+ distance=0
+ totalTripTime=PT5H35M
+ flightType=Connect
+ uniqueFlightId=DACBAH20230609GF251
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Bahrain International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T10:25:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-09T15:20:00
+ marketingAirline=Gulf Air
+ flightNumber=3
+ distance=0
+ totalTripTime=PT6H55M
+ flightType=Connect
+ uniqueFlightId=BAHLHR20230609GF3
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-09T17:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T20:05:00
+ marketingAirline=Gulf Air
+ flightNumber=6607
+ distance=0
+ totalTripTime=PT7H50M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609GF6607
+
+Round Trip Flight # 23
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=7
+ departureDateTime=2023-04-08T19:00:00
+ arrivalAirport=Kuwait International Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-04-09T14:00:00
+ marketingAirline=Kuwait Airways
+ flightNumber=118
+ distance=0
+ totalTripTime=PT12H00M
+ flightType=Connect
+ uniqueFlightId=JFKKWI20230408KU118
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Kuwait International Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T17:30:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=2
+ arrivalDateTime=2023-04-10T01:45:00
+ marketingAirline=Kuwait Airways
+ flightNumber=283
+ distance=0
+ totalTripTime=PT5H15M
+ flightType=Connect
+ uniqueFlightId=KWIDAC20230408KU283
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T06:35:00
+ arrivalAirport=Istanbul Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T12:15:00
+ marketingAirline=Turkish Airlines
+ flightNumber=713
+ distance=0
+ totalTripTime=PT8H40M
+ flightType=Connect
+ uniqueFlightId=DACIST20230609TK713
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Istanbul Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T14:05:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=1
+ arrivalDateTime=2023-06-09T17:50:00
+ marketingAirline=Turkish Airlines
+ flightNumber=1
+ distance=0
+ totalTripTime=PT10H45M
+ flightType=Connect
+ uniqueFlightId=ISTJFK20230609TK1
+
+Round Trip Flight # 24
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T19:12:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=2
+ arrivalDateTime=2023-04-09T07:30:00
+ marketingAirline=Qatar Airways
+ flightNumber=9203
+ distance=0
+ totalTripTime=PT7H18M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408QR9203
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T09:00:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=10
+ distance=0
+ totalTripTime=PT6H45M
+ flightType=Connect
+ uniqueFlightId=LHRDOH20230408QR10
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T10:50:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T13:30:00
+ marketingAirline=Qatar Airways
+ flightNumber=641
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR641
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T15:40:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-09T22:45:00
+ marketingAirline=Qatar Airways
+ flightNumber=705
+ distance=0
+ totalTripTime=PT14H05M
+ flightType=Connect
+ uniqueFlightId=DOHJFK20230609QR705
+
+Round Trip Flight # 25
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T19:12:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-04-09T07:30:00
+ marketingAirline=Gulf Air
+ flightNumber=6616
+ distance=0
+ totalTripTime=PT7H18M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408GF6616
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T10:00:00
+ arrivalAirport=Bahrain International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T18:15:00
+ marketingAirline=Gulf Air
+ flightNumber=2
+ distance=0
+ totalTripTime=PT6H15M
+ flightType=Connect
+ uniqueFlightId=LHRBAH20230408GF2
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Bahrain International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T20:25:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-10T04:40:00
+ marketingAirline=Gulf Air
+ flightNumber=250
+ distance=0
+ totalTripTime=PT5H15M
+ flightType=Connect
+ uniqueFlightId=BAHDAC20230408GF250
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=American Airlines
+ flightNumber=8158
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8158
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T08:35:00
+ marketingAirline=American Airlines
+ flightNumber=121
+ distance=0
+ totalTripTime=PT14H00M
+ flightType=Connect
+ uniqueFlightId=DOHJFK20230609AA121
+
+Round Trip Flight # 26
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T19:12:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=5
+ arrivalDateTime=2023-04-09T07:30:00
+ marketingAirline=Malaysia Airlines
+ flightNumber=9410
+ distance=0
+ totalTripTime=PT7H18M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408MH9410
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Heathrow Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-09T11:00:00
+ arrivalAirport=Kuala Lumpur International Airport
+ arrivalTerminal=M
+ arrivalDateTime=2023-04-10T07:15:00
+ marketingAirline=Malaysia Airlines
+ flightNumber=3
+ distance=0
+ totalTripTime=PT13H15M
+ flightType=Connect
+ uniqueFlightId=LHRKUL20230408MH3
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Kuala Lumpur International Airport
+ depaertureTerminal=M
+ departureDateTime=2023-04-10T09:10:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T11:05:00
+ marketingAirline=Malaysia Airlines
+ flightNumber=102
+ distance=0
+ totalTripTime=PT3H55M
+ flightType=Connect
+ uniqueFlightId=KULDAC20230408MH102
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=Qatar Airways
+ flightNumber=635
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR635
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T08:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=9001
+ distance=0
+ totalTripTime=PT14H00M
+ flightType=Connect
+ uniqueFlightId=DOHJFK20230609QR9001
+
+Round Trip Flight # 27
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T19:30:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=B
+ arrivalDateTime=2023-04-08T21:13:00
+ marketingAirline=American Airlines
+ flightNumber=4743
+ distance=0
+ totalTripTime=PT1H43M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408AA4743
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=American Airlines
+ flightNumber=8134
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408AA8134
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:05:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T06:25:00
+ marketingAirline=British Airways
+ flightNumber=2364
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA2364
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-10T08:25:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T11:05:00
+ marketingAirline=British Airways
+ flightNumber=117
+ distance=0
+ totalTripTime=PT7H40M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA117
+
+Round Trip Flight # 28
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T19:30:00
+ arrivalAirport=Edward L. Logan International Airport
+ arrivalTerminal=B
+ arrivalDateTime=2023-04-08T21:13:00
+ marketingAirline=Qatar Airways
+ flightNumber=9132
+ distance=0
+ totalTripTime=PT1H43M
+ flightType=Connect
+ uniqueFlightId=JFKBOS20230408QR9132
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Edward L. Logan International Airport
+ depaertureTerminal=E
+ departureDateTime=2023-04-08T22:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:25:00
+ marketingAirline=Qatar Airways
+ flightNumber=744
+ distance=0
+ totalTripTime=PT12H10M
+ flightType=Connect
+ uniqueFlightId=BOSDOH20230408QR744
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:05:00
+ arrivalAirport=Gatwick Airport
+ arrivalTerminal=S
+ arrivalDateTime=2023-06-10T06:20:00
+ marketingAirline=British Airways
+ flightNumber=2032
+ distance=0
+ totalTripTime=PT7H15M
+ flightType=Connect
+ uniqueFlightId=DOHLGW20230609BA2032
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-10T09:50:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T12:35:00
+ marketingAirline=British Airways
+ flightNumber=175
+ distance=0
+ totalTripTime=PT7H45M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA175
+
+Round Trip Flight # 29
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T20:25:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T16:00:00
+ marketingAirline=Qatar Airways
+ flightNumber=702
+ distance=0
+ totalTripTime=PT12H35M
+ flightType=Connect
+ uniqueFlightId=JFKDOH20230408QR702
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T17:25:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T02:05:00
+ marketingAirline=Qatar Airways
+ flightNumber=638
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR638
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:40:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T07:00:00
+ marketingAirline=British Airways
+ flightNumber=7009
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA7009
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-10T09:50:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T12:35:00
+ marketingAirline=British Airways
+ flightNumber=175
+ distance=0
+ totalTripTime=PT7H45M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA175
+
+Round Trip Flight # 30
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T20:25:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T16:00:00
+ marketingAirline=Qatar Airways
+ flightNumber=702
+ distance=0
+ totalTripTime=PT12H35M
+ flightType=Connect
+ uniqueFlightId=JFKDOH20230408QR702
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:05:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T06:25:00
+ marketingAirline=British Airways
+ flightNumber=2364
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA2364
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-10T09:50:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T12:35:00
+ marketingAirline=British Airways
+ flightNumber=175
+ distance=0
+ totalTripTime=PT7H45M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA175
+
+Round Trip Flight # 31
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T21:30:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:00:00
+ marketingAirline=American Airlines
+ flightNumber=120
+ distance=0
+ totalTripTime=PT12H30M
+ flightType=Connect
+ uniqueFlightId=JFKDOH20230408AA120
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=American Airlines
+ flightNumber=8215
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408AA8215
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=Gatwick Airport
+ arrivalTerminal=N
+ arrivalDateTime=2023-06-10T06:45:00
+ marketingAirline=British Airways
+ flightNumber=4481
+ distance=0
+ totalTripTime=PT7H10M
+ flightType=Connect
+ uniqueFlightId=DOHLGW20230609BA4481
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=5
+ departureDateTime=2023-06-10T09:50:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T12:35:00
+ marketingAirline=British Airways
+ flightNumber=175
+ distance=0
+ totalTripTime=PT7H45M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA175
+
+Round Trip Flight # 32
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T21:30:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T17:00:00
+ marketingAirline=Qatar Airways
+ flightNumber=9000
+ distance=0
+ totalTripTime=PT12H30M
+ flightType=Connect
+ uniqueFlightId=JFKDOH20230408QR9000
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-09T18:55:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Qatar Airways
+ flightNumber=642
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408QR642
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:40:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T07:00:00
+ marketingAirline=British Airways
+ flightNumber=7009
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609BA7009
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-10T10:30:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T13:30:00
+ marketingAirline=British Airways
+ flightNumber=1516
+ distance=0
+ totalTripTime=PT8H00M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA1516
+
+Round Trip Flight # 33
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-08T22:20:00
+ arrivalAirport=Malpensa Airport
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-09T12:15:00
+ marketingAirline=Emirates
+ flightNumber=206
+ distance=0
+ totalTripTime=PT7H55M
+ flightType=Connect
+ uniqueFlightId=JFKMXP20230408EK206
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Malpensa Airport
+ depaertureTerminal=1
+ departureDateTime=2023-04-09T14:05:00
+ arrivalAirport=Dubai International Airport
+ arrivalTerminal=3
+ arrivalDateTime=2023-04-09T22:10:00
+ marketingAirline=Emirates
+ flightNumber=206
+ distance=0
+ totalTripTime=PT6H05M
+ flightType=Connect
+ uniqueFlightId=MXPDXB20230408EK206
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Dubai International Airport
+ depaertureTerminal=2
+ departureDateTime=2023-04-10T01:15:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T08:20:00
+ marketingAirline=Emirates
+ flightNumber=2330
+ distance=0
+ totalTripTime=PT5H05M
+ flightType=Connect
+ uniqueFlightId=DXBDAC20230408EK2330
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=Qatar Airways
+ flightNumber=635
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR635
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:40:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T07:00:00
+ marketingAirline=Qatar Airways
+ flightNumber=9
+ distance=0
+ totalTripTime=PT7H20M
+ flightType=Connect
+ uniqueFlightId=DOHLHR20230609QR9
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=2
+ departureDateTime=2023-06-10T10:30:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T13:30:00
+ marketingAirline=Qatar Airways
+ flightNumber=2233
+ distance=0
+ totalTripTime=PT8H00M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609QR2233
+
+Round Trip Flight # 34
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-08T22:20:00
+ arrivalAirport=Malpensa Airport
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-09T12:15:00
+ marketingAirline=Emirates
+ flightNumber=206
+ distance=0
+ totalTripTime=PT7H55M
+ flightType=Connect
+ uniqueFlightId=JFKMXP20230408EK206
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Malpensa Airport
+ depaertureTerminal=1
+ departureDateTime=2023-04-09T14:05:00
+ arrivalAirport=Dubai International Airport
+ arrivalTerminal=3
+ arrivalDateTime=2023-04-09T22:10:00
+ marketingAirline=Emirates
+ flightNumber=206
+ distance=0
+ totalTripTime=PT6H05M
+ flightType=Connect
+ uniqueFlightId=MXPDXB20230408EK206
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Dubai International Airport
+ depaertureTerminal=3
+ departureDateTime=2023-04-10T02:00:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T08:40:00
+ marketingAirline=Emirates
+ flightNumber=582
+ distance=0
+ totalTripTime=PT4H40M
+ flightType=Connect
+ uniqueFlightId=DXBDAC20230408EK582
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=British Airways
+ flightNumber=6193
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609BA6193
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=Gatwick Airport
+ arrivalTerminal=N
+ arrivalDateTime=2023-06-10T06:45:00
+ marketingAirline=British Airways
+ flightNumber=4481
+ distance=0
+ totalTripTime=PT7H10M
+ flightType=Connect
+ uniqueFlightId=DOHLGW20230609BA4481
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Heathrow Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-10T10:30:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T13:30:00
+ marketingAirline=British Airways
+ flightNumber=1516
+ distance=0
+ totalTripTime=PT8H00M
+ flightType=Connect
+ uniqueFlightId=LHRJFK20230609BA1516
+
+Round Trip Flight # 35
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=8
+ departureDateTime=2023-04-08T22:23:00
+ arrivalAirport=Heathrow Airport
+ arrivalTerminal=3
+ arrivalDateTime=2023-04-09T10:30:00
+ marketingAirline=British Airways
+ flightNumber=1515
+ distance=0
+ totalTripTime=PT7H07M
+ flightType=Connect
+ uniqueFlightId=JFKLHR20230408BA1515
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Gatwick Airport
+ depaertureTerminal=S
+ departureDateTime=2023-04-09T14:05:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-09T22:50:00
+ marketingAirline=British Airways
+ flightNumber=2033
+ distance=0
+ totalTripTime=PT6H45M
+ flightType=Connect
+ uniqueFlightId=LGWDOH20230408BA2033
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-10T00:40:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T09:20:00
+ marketingAirline=British Airways
+ flightNumber=6196
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DOHDAC20230408BA6196
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=American Airlines
+ flightNumber=8158
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609AA8158
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=Dallas/Ft. Worth International Airport
+ arrivalTerminal=D
+ arrivalDateTime=2023-06-10T10:00:00
+ marketingAirline=American Airlines
+ flightNumber=8139
+ distance=0
+ totalTripTime=PT16H25M
+ flightType=Connect
+ uniqueFlightId=DOHDFW20230609AA8139
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Dallas/Ft. Worth International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T12:36:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T17:29:00
+ marketingAirline=American Airlines
+ flightNumber=2246
+ distance=0
+ totalTripTime=PT3H53M
+ flightType=Connect
+ uniqueFlightId=DFWJFK20230609AA2246
+
+Round Trip Flight # 36
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-08T22:40:00
+ arrivalAirport=Abu Dhabi International Airport
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-09T19:30:00
+ marketingAirline=Etihad Airways
+ flightNumber=100
+ distance=0
+ totalTripTime=PT12H50M
+ flightType=Connect
+ uniqueFlightId=JFKAUH20230408EY100
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Abu Dhabi International Airport
+ depaertureTerminal=3
+ departureDateTime=2023-04-09T20:35:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-10T03:35:00
+ marketingAirline=Etihad Airways
+ flightNumber=230
+ distance=0
+ totalTripTime=PT5H00M
+ flightType=Connect
+ uniqueFlightId=AUHDAC20230408EY230
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=1
+ departureDateTime=2023-06-09T20:15:00
+ arrivalAirport=Hamad International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-06-09T22:55:00
+ marketingAirline=Qatar Airways
+ flightNumber=635
+ distance=0
+ totalTripTime=PT5H40M
+ flightType=Connect
+ uniqueFlightId=DACDOH20230609QR635
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hamad International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T01:35:00
+ arrivalAirport=Dallas/Ft. Worth International Airport
+ arrivalTerminal=D
+ arrivalDateTime=2023-06-10T10:00:00
+ marketingAirline=Qatar Airways
+ flightNumber=731
+ distance=0
+ totalTripTime=PT16H25M
+ flightType=Connect
+ uniqueFlightId=DOHDFW20230609QR731
+
+
+Each Connecting flight 2
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Dallas/Ft. Worth International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-10T12:36:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=8
+ arrivalDateTime=2023-06-10T17:29:00
+ marketingAirline=Qatar Airways
+ flightNumber=2708
+ distance=0
+ totalTripTime=PT3H53M
+ flightType=Connect
+ uniqueFlightId=DFWJFK20230609QR2708
+
+Round Trip Flight # 37
+
+----------------------------------------
+
+
+
+Out bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=John F. Kennedy International Airport
+ depaertureTerminal=4
+ departureDateTime=2023-04-08T22:40:00
+ arrivalAirport=Abu Dhabi International Airport
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-09T19:30:00
+ marketingAirline=Etihad Airways
+ flightNumber=100
+ distance=0
+ totalTripTime=PT12H50M
+ flightType=Connect
+ uniqueFlightId=JFKAUH20230408EY100
+
+
+Each Connecting flight 1
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Abu Dhabi International Airport
+ depaertureTerminal=1
+ departureDateTime=2023-04-09T23:00:00
+ arrivalAirport=Bandaranaike International Airport
+ arrivalTerminal=To Be Determined
+ arrivalDateTime=2023-04-10T05:00:00
+ marketingAirline=Etihad Airways
+ flightNumber=7152
+ distance=0
+ totalTripTime=PT4H30M
+ flightType=Connect
+ uniqueFlightId=AUHCMB20230408EY7152
+
+
+Each Connecting flight 2
+ locationTo=Hazrat Shahjalal International
+ locationFrom=John F. Kennedy International Airport
+ departureAirport=Bandaranaike International Airport
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-04-10T07:45:00
+ arrivalAirport=Hazrat Shahjalal International
+ arrivalTerminal=1
+ arrivalDateTime=2023-04-10T11:30:00
+ marketingAirline=Etihad Airways
+ flightNumber=7168
+ distance=0
+ totalTripTime=PT3H15M
+ flightType=Connect
+ uniqueFlightId=CMBDAC20230408EY7168
+
+In bound flights
+
+
+
+Each Connecting flight 0
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Hazrat Shahjalal International
+ depaertureTerminal=To Be Determined
+ departureDateTime=2023-06-09T20:55:00
+ arrivalAirport=Abu Dhabi International Airport
+ arrivalTerminal=3
+ arrivalDateTime=2023-06-10T00:15:00
+ marketingAirline=Etihad Airways
+ flightNumber=1367
+ distance=0
+ totalTripTime=PT5H20M
+ flightType=Connect
+ uniqueFlightId=DACAUH20230609EY1367
+
+
+Each Connecting flight 1
+ locationTo=John F. Kennedy International Airport
+ locationFrom=Hazrat Shahjalal International
+ departureAirport=Abu Dhabi International Airport
+ depaertureTerminal=3
+ departureDateTime=2023-06-10T03:15:00
+ arrivalAirport=John F. Kennedy International Airport
+ arrivalTerminal=4
+ arrivalDateTime=2023-06-10T09:30:00
+ marketingAirline=Etihad Airways
+ flightNumber=103
+ distance=0
+ totalTripTime=PT14H15M
+ flightType=Connect
+ uniqueFlightId=AUHJFK20230609EY103

@@ -1,0 +1,58 @@
+.body {
+  -fx-background-image: url(../images/Welcome.jpg);
+  -fx-background-size: contain;
+  -fx-background-position: left;
+  -fx-background-repeat: no-repeat;
+  -fx-background-size: 45.0% 100.0%;
+  -fx-font-family: 'Segoe UI Light';
+}
+
+.my-label {
+-fx-text-fill: #ff6700;
+  -fx-font-size: 30.0px;
+}
+
+#welcomeLbl {
+  -fx-text-fill: #ff6700;
+  -fx-font-size: 55.0px;
+}
+
+.my-vbox {
+	-fx-background-color: #C3E5E7; 
+	-fx-border-color: #DD8627; 
+	-fx-border-width: 2.0px;
+}
+
+.menu-button {
+  -fx-font-family: 'Segoe UI';
+  -fx-background-color: #ff4d00;
+  -fx-text-fill: #fffffD;
+  -fx-font-size: 25.0px;
+  -fx-background-radius: 30.0 0.0 0.0 30.0;
+}
+.menu-button:hover {
+  -fx-background-color: #c55d3b;
+  -fx-background-radius: 30.0 0.0 0.0 30.0;
+}
+.menu-button:pressed {
+  -fx-background-color: #ff0000;
+  -fx-background-radius: 30.0 0.0 0.0 30.0;
+}
+
+#logoutBtn {
+	-fx-font-family: 'Segoe UI Light';
+	-fx-background-color: #ff5d00;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 15.0px;
+	-fx-translate-y: 65.0px;
+	-fx-background-radius: 15.0px;
+}
+
+#logoutBtn:hover {
+  -fx-background-color: #c55d3b;
+  
+}
+#logoutBtn:pressed {
+  -fx-background-color: #ff0000;
+}
+

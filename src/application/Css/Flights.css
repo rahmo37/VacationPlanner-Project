@@ -1,0 +1,11 @@
+.body{ 
+  -fx-background-size: 0.0% 0.0%;
+  -fx-background-color: #FFFFFF;
+  -fx-font-family: 'Segoe UI';
+}
+
+.label {
+	-fx-font-size: 45.0px;
+	-fx-text-fill: #ff6700;
+	-fx-translate-y: 10.0px;
+}

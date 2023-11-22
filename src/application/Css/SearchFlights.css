@@ -1,0 +1,100 @@
+.body{ 
+ -fx-background-image: url(../images/fly.jpeg);
+ -fx-background-size: contain;
+ -fx-background-position: left;
+ -fx-background-repeat: no-repeat;
+ -fx-background-size: 50.0% 100.0%;
+ -fx-font-family: "Segoe UI Light";
+ -fx-font-size: 18.0px;
+}
+
+#searchFlightsLbl {
+	-fx-font-size: 46.0px;
+}
+
+
+#takeOffLbl {
+	-fx-translate-y: 25.0px;
+}
+
+#fromTf {
+	-fx-background-radius: 15.0px;
+}
+
+#whereTf {
+	-fx-background-radius: 15.0px;
+}
+
+.text-field {
+	-fx-font-family: "Segoe UI";
+	-fx-font-size: 15.0px;
+
+}
+.text-field:hover {
+	    -fx-effect: dropshadow(three-pass-box, rgba(255.0, 153.0, 102.0, 0.5), 8.0, 0.0, 0.0, 0.0);
+}
+.text-field:focused {
+	-fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: #faf0e6;
+}
+
+.label {
+	-fx-text-fill: #ff6700;
+}
+
+.radio-button {
+    -fx-text-fill: #ff6700;
+}
+
+.radio-button:hover {
+	-fx-effect: dropshadow(three-pass-box, rgba(255.0, 153.0, 102.0, 0.5), 8.0, 0.0, 0.0, 0.0);
+}
+.radio-button:focused {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+.combo-box:hover {
+	-fx-effect: dropshadow(three-pass-box, rgba(255.0, 153.0, 102.0, 0.5), 8.0, 0.0, 0.0, 0.0);
+}
+.combo-box:focused {
+		-fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: #faf0e6;
+}
+
+.date-picker {
+	-fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: #faf0e6;
+    -fx-background-radius: 60.0px;
+}
+
+.date-picker:focused {
+	-fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: #faf0e6;
+}
+
+.button {
+	-fx-background-color: #ff6700;
+	-fx-background-radius: 10.0px;
+	-fx-border-width: 0.0px;
+	-fx-font-size: 22.0px;
+}
+
+.button:hover {
+	 -fx-background-color: #ff9f00;
+}
+
+.button:pressed {
+	 -fx-background-color: #c4aead;
+}
+
+#topLbl {
+	-fx-background-radius: 10.0px;
+	-fx-text-fill: #000000;
+	-fx-background-color: #ff6700;
+}
+
+

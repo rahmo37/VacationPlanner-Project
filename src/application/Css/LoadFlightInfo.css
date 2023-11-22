@@ -1,0 +1,27 @@
+.body{ 
+	  -fx-background-size: 0.0% 0.0%;
+  -fx-background-color: #FFFFFF;
+    -fx-font-family: 'Segoe UI';
+}
+
+#FlightsContainerVB {
+	
+}
+
+.label {
+	-fx-text-fill: #ff6700;
+}
+
+.button {
+	-fx-background-color: #ff6700;
+	-fx-background-radius: 10.0px;
+	-fx-border-width: 0.0px;
+	-fx-font-size: 16.0px;
+}
+.button:hover {
+	 -fx-background-color: #ff9f00;
+}
+
+.button:pressed {
+	 -fx-background-color: #c4aead;
+}

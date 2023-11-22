@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="721.0" prefWidth="959.0" styleClass="body" stylesheets="@../Css/Currency.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.CurrencyController">
+   <children>
+      <GridPane alignment="CENTER" layoutY="1.0" prefHeight="715.0" prefWidth="959.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="-5.0" AnchorPane.topAnchor="1.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="711.0" minHeight="0.0" prefHeight="588.0" vgrow="SOMETIMES" />
+            <RowConstraints />
+        </rowConstraints>
+         <children>
+            <VBox id="voxx" alignment="CENTER" layoutX="50.0" prefHeight="711.0" prefWidth="517.0" spacing="15.0" GridPane.columnIndex="1" GridPane.rowSpan="2">
+               <children>
+                  <ImageView fitHeight="128.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/ezgif.com-gif-maker%20(1).gif" />
+                     </image>
+                     <VBox.margin>
+                        <Insets />
+                     </VBox.margin>
+                  </ImageView>
+                  <Label id="currencyLabel" alignment="CENTER" prefHeight="66.0" prefWidth="330.0" text="Currency Converter">
+                     <font>
+                        <Font size="40.0" />
+                     </font>
+                     <VBox.margin>
+                        <Insets left="20.0" />
+                     </VBox.margin>
+                  </Label>
+                  <HBox alignment="CENTER" prefHeight="21.0" prefWidth="491.0" spacing="100.0">
+                     <children>
+                        <Label alignment="CENTER" prefHeight="7.0" prefWidth="113.0" text="From" />
+                        <Label id="toLabel" alignment="CENTER" prefHeight="68.0" prefWidth="82.0" text="To" />
+                     </children>
+                  </HBox>
+                  <HBox alignment="CENTER" prefHeight="36.0" prefWidth="401.0">
+                     <children>
+                        <ComboBox fx:id="fromComBox" prefHeight="36.0" prefWidth="165.0" HBox.hgrow="ALWAYS" />
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="  |  " />
+                        <ComboBox fx:id="toComBox" prefHeight="36.0" prefWidth="165.0" HBox.hgrow="ALWAYS" />
+                     </children>
+                  </HBox>
+                  <Label alignment="BOTTOM_CENTER" prefHeight="30.0" prefWidth="66.0" text="Amount" />
+                  <HBox alignment="CENTER" prefHeight="36.0" prefWidth="401.0">
+                     <children>
+                        <TextField fx:id="amountTF" alignment="CENTER" prefHeight="45.0" prefWidth="171.0" promptText="Enter Amount" />
+                     </children>
+                  </HBox>
+                  <Button fx:id="convertBTN" mnemonicParsing="false" prefHeight="44.0" prefWidth="96.0" text="Convert">
+                     <VBox.margin>
+                        <Insets top="25.0" />
+                     </VBox.margin>
+                  </Button>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <TextField fx:id="resultTF" alignment="CENTER" editable="false" prefHeight="37.0" prefWidth="171.0" promptText="Converted Amount">
+                           <HBox.margin>
+                              <Insets left="60.0" />
+                           </HBox.margin></TextField>
+                        <Label id="currCode" fx:id="currCodeLbl" prefHeight="22.0" prefWidth="55.0">
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </Label>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

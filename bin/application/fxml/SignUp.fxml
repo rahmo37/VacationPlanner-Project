@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1400.0" styleClass="body" stylesheets="@../Css/SignUp.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.SignUpController">
+   <children>
+      <GridPane alignment="CENTER" layoutX="-5.0" layoutY="-5.0" prefHeight="620.0" prefWidth="812.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="-5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="-5.0">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints maxHeight="246.0" minHeight="0.0" prefHeight="83.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="620.0" minHeight="10.0" prefHeight="211.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="280.0" minHeight="0.0" prefHeight="201.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <VBox alignment="CENTER" prefHeight="461.0" prefWidth="443.0" spacing="25.0" GridPane.columnIndex="1" GridPane.rowSpan="3">
+               <children>
+                  <ImageView id="imageView" fx:id="imageView" fitHeight="98.0" fitWidth="80.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/user.gif" />
+                     </image>
+                     <VBox.margin>
+                        <Insets bottom="10.0" top="30.0" />
+                     </VBox.margin>
+                  </ImageView>
+                  <Label alignment="CENTER" prefHeight="23.0" prefWidth="317.0" text="Create Account" textAlignment="CENTER" />
+                  <HBox prefHeight="36.0" prefWidth="401.0" spacing="10.0">
+                     <children>
+                        <TextField id="first" fx:id="firstNameTF" prefHeight="38.0" prefWidth="500.0" promptText="First Name" />
+                        <TextField fx:id="lastNameTF" prefHeight="38.0" prefWidth="500.0" promptText="Last Name" />
+                     </children>
+                  </HBox>
+                  <TextField id="email" fx:id="emailTF" prefHeight="38.0" prefWidth="401.0" promptText="Email" styleClass="text-field" />
+                  <TextField fx:id="phoneTF" prefHeight="40.0" prefWidth="401.0" promptText="Phone" />
+                  <PasswordField fx:id="passwordTF" prefHeight="40.0" prefWidth="560.0" promptText="Password" />
+                  <Button fx:id="signUpBTN" mnemonicParsing="false" onAction="#createAccount" prefHeight="35.0" prefWidth="95.0" text="Sign Up">
+                     <VBox.margin>
+                        <Insets top="12.0" />
+                     </VBox.margin>
+                     <font>
+                        <Font size="22.0" />
+                     </font>
+                     <padding>
+                        <Insets top="-2.0" />
+                     </padding>
+                  </Button>
+                  <Line endX="52.5" opacity="0.15" startX="-100.0" />
+                  <Button fx:id="backBtn" mnemonicParsing="false" prefHeight="34.0" prefWidth="86.0" text="Go Back">
+                     <VBox.margin>
+                        <Insets top="6.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets top="-2.0" />
+                     </padding></Button>
+               </children>
+               <padding>
+                  <Insets left="70.0" right="70.0" />
+               </padding>
+            </VBox>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

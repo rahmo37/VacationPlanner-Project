@@ -1,0 +1,19 @@
+.body {
+	 -fx-background-color: #ffffff;
+}
+.label {
+	-fx-text-fill: #ff6700;
+}
+.text-field {
+	-fx-font-family: "Segoe UI";
+	-fx-font-size: 15.0px;
+	-fx-background-radius: 15.0px;
+}
+.text-field:hover {
+	    -fx-effect: dropshadow(three-pass-box, rgba(255.0, 153.0, 102.0, 0.5), 8.0, 0.0, 0.0, 0.0);
+}
+.text-field:focused {
+	-fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-background-color: #faf0e6;
+}

@@ -1,0 +1,763 @@
+{
+  "OTA_AirDetailsRS": {
+    "xmlns": "http://www.opentravel.org/OTA/2003/05",
+    "FLSNote": "This XML adds attributes not in the OTA XML spec.  All such attributes start with FLS",
+    "FlightDetails": [
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": {
+          "DepartureAirport": {
+            "FLSDayIndicator": "",
+            "CodeContext": "IATA",
+            "LocationCode": "JFK",
+            "FLSLocationName": "John F. Kennedy International Airport",
+            "Terminal": 4
+          },
+          "ArrivalAirport": {
+            "FLSDayIndicator": "",
+            "CodeContext": "IATA",
+            "LocationCode": "SAL",
+            "FLSLocationName": "El Salvador International Airport",
+            "Terminal": " "
+          },
+          "MarketingAirline": {
+            "CompanyShortName": "SA AVIANCA",
+            "CodeContext": "IATA",
+            "Code": "AV"
+          },
+          "FLSDepartureTimeOffset": "-0400",
+          "FLSInflightServices": "  9",
+          "LegDistance": 2096,
+          "FLSDOTDisclosure": "Owned By:TACA INTERNATIONAL AIRLINES - TACA",
+          "Equipment": {
+            "AirEquipType": 320
+          },
+          "DepartureDateTime": "2023-07-19T03:30:00",
+          "ArrivalDateTime": "2023-07-19T06:20:00",
+          "FLSUUID": "JFKSAL20230719AV571",
+          "FlightNumber": 571,
+          "SequenceNumber": 1,
+          "FLSMeals": "G",
+          "FLSArrivalTimeOffset": "-0600",
+          "JourneyDuration": "PT4H50M"
+        },
+        "FLSFlightLegs": 1,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT4H50M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT4H50M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2096,
+        "FLSArrivalDateTime": "2023-07-19T06:20:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "NonStop",
+        "FLSDepartureDateTime": "2023-07-19T03:30:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": {
+          "DepartureAirport": {
+            "FLSDayIndicator": "",
+            "CodeContext": "IATA",
+            "LocationCode": "JFK",
+            "FLSLocationName": "John F. Kennedy International Airport",
+            "Terminal": 4
+          },
+          "ArrivalAirport": {
+            "FLSDayIndicator": "",
+            "CodeContext": "IATA",
+            "LocationCode": "SAL",
+            "FLSLocationName": "El Salvador International Airport",
+            "Terminal": " "
+          },
+          "MarketingAirline": {
+            "CompanyShortName": "SA AVIANCA",
+            "CodeContext": "IATA",
+            "Code": "AV"
+          },
+          "FLSDepartureTimeOffset": "-0400",
+          "FLSInflightServices": "  9",
+          "LegDistance": 2096,
+          "FLSDOTDisclosure": "Owned By:TACA INTERNATIONAL AIRLINES - TACA",
+          "Equipment": {
+            "AirEquipType": 320
+          },
+          "DepartureDateTime": "2023-07-19T04:15:00",
+          "ArrivalDateTime": "2023-07-19T07:05:00",
+          "FLSUUID": "JFKSAL20230719AV567",
+          "FlightNumber": 567,
+          "SequenceNumber": 1,
+          "FLSMeals": "G",
+          "FLSArrivalTimeOffset": "-0600",
+          "JourneyDuration": "PT4H50M"
+        },
+        "FLSFlightLegs": 1,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT4H50M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT4H50M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2096,
+        "FLSArrivalDateTime": "2023-07-19T07:05:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "NonStop",
+        "FLSDepartureDateTime": "2023-07-19T04:15:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 8
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26/ 27/ 28/ 31",
+            "LegDistance": 1093,
+            "Equipment": {
+              "AirEquipType": "7M8"
+            },
+            "DepartureDateTime": "2023-07-19T06:00:00",
+            "ArrivalDateTime": "2023-07-19T09:11:00",
+            "FLSUUID": "JFKMIA20230719AA2131",
+            "FlightNumber": 2131,
+            "SequenceNumber": 1,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0400",
+            "JourneyDuration": "PT3H11M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26",
+            "LegDistance": 1027,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T11:10:00",
+            "ArrivalDateTime": "2023-07-19T12:01:00",
+            "FLSUUID": "MIASAL20230719AA1751",
+            "FlightNumber": 1751,
+            "SequenceNumber": 2,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT2H51M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT6H02M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT8H01M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2120,
+        "FLSArrivalDateTime": "2023-07-19T12:01:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T06:00:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 4
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "ATL",
+              "FLSLocationName": "Hartsfield-Jackson International Airpor",
+              "Terminal": "S"
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "Delta Air Lines",
+              "CodeContext": "IATA",
+              "Code": "DL"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": "  3/  5/ 15/ 18/ 22/ 27/ 99",
+            "LegDistance": 760,
+            "Equipment": {
+              "AirEquipType": 757
+            },
+            "DepartureDateTime": "2023-07-19T06:25:00",
+            "ArrivalDateTime": "2023-07-19T08:49:00",
+            "FLSUUID": "JFKATL20230719DL2049",
+            "FlightNumber": 2049,
+            "SequenceNumber": 1,
+            "FLSMeals": "",
+            "FLSArrivalTimeOffset": "-0400",
+            "JourneyDuration": "PT2H24M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "ATL",
+              "FLSLocationName": "Hartsfield-Jackson International Airpor",
+              "Terminal": "I"
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "Delta Air Lines",
+              "CodeContext": "IATA",
+              "Code": "DL"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": "  3/  5/ 12/ 15/ 18/ 22/ 27/ 99",
+            "LegDistance": 1427,
+            "Equipment": {
+              "AirEquipType": 739
+            },
+            "DepartureDateTime": "2023-07-19T10:15:00",
+            "ArrivalDateTime": "2023-07-19T12:00:00",
+            "FLSUUID": "ATLSAL20230719DL1910",
+            "FlightNumber": 1910,
+            "SequenceNumber": 2,
+            "FLSMeals": "V",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT3H45M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT6H09M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT7H35M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2187,
+        "FLSArrivalDateTime": "2023-07-19T12:00:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T06:25:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 8
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26/ 27/ 28/ 31",
+            "LegDistance": 1093,
+            "Equipment": {
+              "AirEquipType": "7M8"
+            },
+            "DepartureDateTime": "2023-07-19T07:00:00",
+            "ArrivalDateTime": "2023-07-19T10:10:00",
+            "FLSUUID": "JFKMIA20230719AA1032",
+            "FlightNumber": 1032,
+            "SequenceNumber": 1,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0400",
+            "JourneyDuration": "PT3H10M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26",
+            "LegDistance": 1027,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T11:10:00",
+            "ArrivalDateTime": "2023-07-19T12:01:00",
+            "FLSUUID": "MIASAL20230719AA1751",
+            "FlightNumber": 1751,
+            "SequenceNumber": 2,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT2H51M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT6H01M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT7H01M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2120,
+        "FLSArrivalDateTime": "2023-07-19T12:01:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T07:00:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 8
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26/ 27/ 28/ 31",
+            "LegDistance": 1093,
+            "Equipment": {
+              "AirEquipType": "7M8"
+            },
+            "DepartureDateTime": "2023-07-19T12:59:00",
+            "ArrivalDateTime": "2023-07-19T16:18:00",
+            "FLSUUID": "JFKMIA20230719AA1706",
+            "FlightNumber": 1706,
+            "SequenceNumber": 1,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0400",
+            "JourneyDuration": "PT3H19M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "MIA",
+              "FLSLocationName": "Miami International Airport",
+              "Terminal": " "
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26/ 27/ 28/ 31",
+            "LegDistance": 1027,
+            "Equipment": {
+              "AirEquipType": "7M8"
+            },
+            "DepartureDateTime": "2023-07-19T18:25:00",
+            "ArrivalDateTime": "2023-07-19T19:09:00",
+            "FLSUUID": "MIASAL20230719AA2967",
+            "FlightNumber": 2967,
+            "SequenceNumber": 2,
+            "FLSMeals": "R",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT2H44M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT6H03M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT8H10M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2120,
+        "FLSArrivalDateTime": "2023-07-19T19:09:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T12:59:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 7
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "YYZ",
+              "FLSLocationName": "Lester B. Pearson International Airport",
+              "Terminal": 1
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "Air Canada",
+              "CodeContext": "IATA",
+              "Code": "AC"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": "  3/  9/ 12/ 18",
+            "LegDistance": 367,
+            "FLSDOTDisclosure": "Owned By:AIR CANADA EXPRESS - JAZZ",
+            "Equipment": {
+              "AirEquipType": "E75"
+            },
+            "DepartureDateTime": "2023-07-19T13:25:00",
+            "ArrivalDateTime": "2023-07-19T15:10:00",
+            "FLSUUID": "JFKYYZ20230719AC8555",
+            "FlightNumber": 8555,
+            "SequenceNumber": 1,
+            "FLSMeals": "",
+            "FLSArrivalTimeOffset": "-0400",
+            "JourneyDuration": "PT1H45M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "YYZ",
+              "FLSLocationName": "Lester B. Pearson International Airport",
+              "Terminal": 1
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "Air Canada",
+              "CodeContext": "IATA",
+              "Code": "AC"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": "  9",
+            "LegDistance": 2165,
+            "Equipment": {
+              "AirEquipType": 320
+            },
+            "DepartureDateTime": "2023-07-19T17:15:00",
+            "ArrivalDateTime": "2023-07-19T20:20:00",
+            "FLSUUID": "YYZSAL20230719AC6162",
+            "FLSUUIDActualFlight": "YYZSAL20230719AV627",
+            "FlightNumber": 6162,
+            "SequenceNumber": 2,
+            "FLSMeals": "G",
+            "OperatingAirline": {
+              "CompanyShortName": "SA AVIANCA",
+              "CodeContext": "IATA",
+              "FlightNumber": 627,
+              "Code": "AV"
+            },
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT5H05M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT6H50M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT8H55M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2532,
+        "FLSArrivalDateTime": "2023-07-19T20:20:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T13:25:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 4
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "PTY",
+              "FLSLocationName": "Tocumen International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "COPA",
+              "CodeContext": "IATA",
+              "Code": "CM"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": "  9",
+            "LegDistance": 2210,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T15:37:00",
+            "ArrivalDateTime": "2023-07-19T20:04:00",
+            "FLSUUID": "JFKPTY20230719CM812",
+            "FlightNumber": 812,
+            "SequenceNumber": 1,
+            "FLSMeals": "M",
+            "FLSArrivalTimeOffset": "-0500",
+            "JourneyDuration": "PT5H27M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "PTY",
+              "FLSLocationName": "Tocumen International Airport",
+              "Terminal": " "
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "COPA",
+              "CodeContext": "IATA",
+              "Code": "CM"
+            },
+            "FLSDepartureTimeOffset": "-0500",
+            "FLSInflightServices": "  9",
+            "LegDistance": 722,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T22:34:00",
+            "ArrivalDateTime": "2023-07-19T23:41:00",
+            "FLSUUID": "PTYSAL20230719CM878",
+            "FlightNumber": 878,
+            "SequenceNumber": 2,
+            "FLSMeals": "M",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT2H07M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT7H34M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT10H04M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2932,
+        "FLSArrivalDateTime": "2023-07-19T23:41:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T15:37:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      },
+      {
+        "FLSDayIndicator": "",
+        "FlightLegDetails": [
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "JFK",
+              "FLSLocationName": "John F. Kennedy International Airport",
+              "Terminal": 8
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "DFW",
+              "FLSLocationName": "Dallas/Ft. Worth International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0400",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26",
+            "LegDistance": 1390,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T15:59:00",
+            "ArrivalDateTime": "2023-07-19T18:54:00",
+            "FLSUUID": "JFKDFW20230719AA2423",
+            "FlightNumber": 2423,
+            "SequenceNumber": 1,
+            "FLSMeals": "F",
+            "FLSArrivalTimeOffset": "-0500",
+            "JourneyDuration": "PT3H55M"
+          },
+          {
+            "DepartureAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "DFW",
+              "FLSLocationName": "Dallas/Ft. Worth International Airport",
+              "Terminal": " "
+            },
+            "ArrivalAirport": {
+              "FLSDayIndicator": "",
+              "CodeContext": "IATA",
+              "LocationCode": "SAL",
+              "FLSLocationName": "El Salvador International Airport",
+              "Terminal": " "
+            },
+            "MarketingAirline": {
+              "CompanyShortName": "American Airlines",
+              "CodeContext": "IATA",
+              "Code": "AA"
+            },
+            "FLSDepartureTimeOffset": "-0500",
+            "FLSInflightServices": " 12/ 18/ 22/ 23/ 26",
+            "LegDistance": 1437,
+            "Equipment": {
+              "AirEquipType": 738
+            },
+            "DepartureDateTime": "2023-07-19T20:50:00",
+            "ArrivalDateTime": "2023-07-19T23:29:00",
+            "FLSUUID": "DFWSAL20230719AA1035",
+            "FlightNumber": 1035,
+            "SequenceNumber": 2,
+            "FLSMeals": "F",
+            "FLSArrivalTimeOffset": "-0600",
+            "JourneyDuration": "PT3H39M"
+          }
+        ],
+        "FLSFlightLegs": 2,
+        "FLSDepartureTimeOffset": "-0400",
+        "TotalFlightTime": "PT7H34M",
+        "FLSArrivalCode": "SAL",
+        "FLSArrivalName": "San Salvador",
+        "FLSDepartureCode": "JFK",
+        "TotalTripTime": "PT9H30M",
+        "FLSFlightDays": "..3....",
+        "TotalMiles": 2827,
+        "FLSArrivalDateTime": "2023-07-19T23:29:00",
+        "FLSArrivalTimeOffset": "-0600",
+        "FLSFlightType": "Connect",
+        "FLSDepartureDateTime": "2023-07-19T15:59:00",
+        "FLSDepartureName": "John F. Kennedy International Airport"
+      }
+    ],
+    "Version": 1,
+    "FLSResponseFields": {
+      "FLSEndDate": "2023-07-19",
+      "FLSDestinationName": "San Salvador",
+      "FLSTargetCount": 599,
+      "FLSOriginCode": "JFK",
+      "FLSBranchCount": 1069,
+      "FLSRoutesFound": 14,
+      "FLSRecordCount": 53976,
+      "FLSDestinationCode": "SAL",
+      "FLSResultCount": 9,
+      "FLSOriginName": "John F. Kennedy International Airport",
+      "FLSStartDate": "2023-07-19"
+    },
+    "TransactionIdentifier": "",
+    "FLSDevice": "ota-xml-expanded",
+    "PrimaryLangID": "eng",
+    "Success": ""
+  }
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="835.0" prefWidth="1166.0" style="-fx-background-color: #ffdab9;" styleClass="body" stylesheets="@../Css/LoadWeather.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.ClimaController">
+   <children>
+      <GridPane alignment="CENTER" layoutY="1.0" prefHeight="784.0" prefWidth="1096.0" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="1.0" AnchorPane.topAnchor="1.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="711.0" minHeight="0.0" prefHeight="675.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <VBox alignment="CENTER" prefHeight="711.0" prefWidth="948.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="473.0" prefWidth="957.0">
+                     <children>
+                        <Label fx:id="date1" alignment="CENTER" prefHeight="45.0" prefWidth="110.0" styleClass="temp-group" text="Today" />
+                        <Label fx:id="weatherLocation" alignment="CENTER" prefHeight="62.0" prefWidth="1126.0" text="Dhaka, BD" textAlignment="CENTER" />
+                        <HBox alignment="CENTER" prefHeight="150.0" prefWidth="946.0">
+                           <children>
+                              <ImageView fx:id="img1" fitHeight="118.0" fitWidth="161.0" pickOnBounds="true" preserveRatio="true">
+                                 <image>
+                                    <Image url="@../WeatherIcons/clear-day.png" />
+                                 </image>
+                                 <HBox.margin>
+                                    <Insets right="25.0" />
+                                 </HBox.margin>
+                              </ImageView>
+                              <Label id="tempLbl" fx:id="temp1" alignment="CENTER" prefHeight="137.0" prefWidth="143.0" text="377" />
+                              <Label alignment="CENTER" prefHeight="38.0" prefWidth="3.0" styleClass="temp-group" text="F" />
+                              <Pane prefHeight="145.0" prefWidth="110.0" />
+                           </children>
+                        </HBox>
+                        <Label fx:id="weather1" alignment="CENTER" prefHeight="47.0" prefWidth="1190.0" text="Partly Cloudy Throughout the day" />
+                        <HBox alignment="CENTER" prefHeight="54.0" prefWidth="953.0">
+                           <children>
+                              <Label fx:id="min1" alignment="CENTER" prefHeight="38.0" prefWidth="110.0" text="Min 30.8" />
+                              <Line endX="-100.70710754394531" endY="-29.817367553710938" opacity="0.3" startX="-100.0" />
+                              <Label fx:id="max1" alignment="CENTER" prefHeight="44.0" prefWidth="110.0" text="Max 45.3" />
+                              <Line endX="-100.70710754394531" endY="-29.817367553710938" opacity="0.3" startX="-100.0" />
+                              <Label fx:id="feelsLike1" alignment="CENTER" prefHeight="47.0" prefWidth="166.0" text="Feels Like 28.7" />
+                           </children>
+                        </HBox>
+                        <Line endX="578.2929077148438" opacity="0.2" startX="-100.0">
+                           <VBox.margin>
+                              <Insets top="50.0" />
+                           </VBox.margin>
+                        </Line>
+                     </children>
+                  </VBox>
+                  <VBox prefHeight="200.0" prefWidth="100.0">
+                     <children>
+                        <HBox alignment="CENTER" spacing="35.0">
+                           <children>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date2" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp2" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img2" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather2" alignment="CENTER" prefHeight="30.0" prefWidth="169.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date3" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp3" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img3" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather3" alignment="CENTER" prefHeight="30.0" prefWidth="170.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date4" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp4" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img4" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather4" alignment="CENTER" prefHeight="30.0" prefWidth="169.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date5" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp5" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img5" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather5" alignment="CENTER" prefHeight="30.0" prefWidth="175.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date6" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp6" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img6" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather6" alignment="CENTER" prefHeight="30.0" prefWidth="172.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                              <VBox alignment="CENTER" prefHeight="200.0" prefWidth="170.0">
+                                 <children>
+                                    <Label fx:id="date7" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="other-label" text="Date: 2023-03-09" />
+                                    <Label fx:id="temp7" alignment="CENTER" prefHeight="30.0" prefWidth="147.0" styleClass="temp-group" text="38" />
+                                    <ImageView fx:id="img7" fitHeight="71.0" fitWidth="81.0" pickOnBounds="true" preserveRatio="true">
+                                       <image>
+                                          <Image url="@../WeatherIcons/cloudy.png" />
+                                       </image>
+                                    </ImageView>
+                                    <Label fx:id="weather7" alignment="CENTER" prefHeight="28.0" prefWidth="170.0" styleClass="other-label" text="Parly Cloudy" />
+                                 </children>
+                              </VBox>
+                           </children>
+                        </HBox>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

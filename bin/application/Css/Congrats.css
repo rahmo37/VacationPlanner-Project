@@ -1,0 +1,35 @@
+.body{ 
+ -fx-background-image: url(../images/Pack.jpg);
+ -fx-background-size: contain;
+ -fx-background-position: left;
+ -fx-background-repeat: no-repeat;
+ -fx-background-size: 50.0% 100.0%;
+
+ -fx-font-family: "Segoe UI Light";
+}
+.label {
+	-fx-text-fill: #ff6700;
+}
+#container {
+	-fx-background-color: #ffffff;
+}
+#congratsLbl {
+	-fx-font-size: 45px;
+}
+#goingToLbl {
+	-fx-font-size: 25px;
+}
+
+.button {
+	-fx-background-color: #ff6700;
+	-fx-background-radius: 10.0px;
+	-fx-border-width: 0.0px;
+	-fx-font-size: 20.0px;
+}
+.button:hover {
+	 -fx-background-color: #ff9f00;
+}
+
+.button:pressed {
+	 -fx-background-color: #c4aead;
+}
